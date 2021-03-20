@@ -1,6 +1,6 @@
 # React-redux Todo app
 
-This project can be downloaded here [react-redux](https://github.com/emmadal/reactredux) and hosted [here](htt).
+This project can be downloaded here [react-redux](https://github.com/emmadal/reactredux) and hosted [here](https://main.d2dknx8wnfgnjs.amplifyapp.com/).
 
 ## Available Scripts
 
