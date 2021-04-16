@@ -1,4 +1,5 @@
 import { addNoteCreator, deleteNoteCreator } from "../actions";
+
 export const mapStateToProps = (state) => {
   return {
     message: state,
